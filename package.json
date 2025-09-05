@@ -12,6 +12,7 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "request-promise": "^4.2.6",
-    "archiver": "^6.0.1"
+    "archiver": "^6.0.1",
+    "prequest": "^0.4.10"
   }
 }
