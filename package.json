@@ -1,6 +1,6 @@
 {
-  "name": "vk-bot", 
-  "version": "1.0.0",
+  "name": "vk-bot",
+  "version": "1.0.0", 
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -9,6 +9,7 @@
     "express": "^4.18.2",
     "vk-io": "^4.9.1",
     "web-streams-polyfill": "^3.3.3",
-    "axios": "^1.7.9"
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
   }
 }
