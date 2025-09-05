@@ -1,2 +1,10 @@
-node_modules
-database
+node_modules/ 
+*.log 
+casino.log 
+commandStats.json 
+logi.txt 
+spisok/ 
+видео/ 
+курс/ 
+настройки/ 
+database/ 
