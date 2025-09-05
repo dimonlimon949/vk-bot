@@ -1,0 +1,8 @@
+{
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "search.exclude": {
+        "**/.git": false
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
