@@ -1,0 +1,108 @@
+[
+	{
+		"id": 2,
+		"type": 1,
+		"uid": 0,
+		"antispam": true,
+		"statuemoney": 0,
+		"statuepeople": 0,
+		"statuemsg": 183,
+		"statuemoneylvl": 0,
+		"statuepeoplelvl": 0,
+		"statuemsglvl": 0,
+		"reg": "2025-08-09T15:44:02.906Z",
+		"priz": false,
+		"start": false,
+		"gametime": 56,
+		"game": true,
+		"igra": false,
+		"games": [
+			{
+				"result": 2,
+				"stavka": true,
+				"hash": "2f00a3b2b5072c78275d53692aad2885a72cacee567c32967f06cccc6967591c",
+				"proverka": "2|2hjkXEkzZpT8kH6",
+				"stavki": [],
+				"randomSource": "Crypto",
+				"generatorIcon": "🔐"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"type": 2,
+		"uid": 1,
+		"antispam": true,
+		"statuemoney": 0,
+		"statuepeople": 0,
+		"statuemsg": 2,
+		"statuemoneylvl": 0,
+		"statuepeoplelvl": 0,
+		"statuemsglvl": 0,
+		"reg": "2025-08-09T16:02:45.842Z",
+		"priz": false,
+		"start": false,
+		"gametime": 1,
+		"game": true,
+		"igra": false,
+		"games": [
+			{
+				"result": 2,
+				"stavka": true,
+				"hash": "c63172b3d1d9f6dd642bdc6d43cc26db32a02c479e0d39719ed0bdd12f5710e9",
+				"proverka": "2|eNQ6xcdQXRCiyRI",
+				"stavki": [],
+				"randomSource": "Hybrid",
+				"generatorIcon": "⚡"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"type": 1,
+		"uid": 2,
+		"antispam": true,
+		"statuemoney": 0,
+		"statuepeople": 0,
+		"statuemsg": 115,
+		"statuemoneylvl": 0,
+		"statuepeoplelvl": 0,
+		"statuemsglvl": 0,
+		"reg": "2025-08-10T05:35:05.335Z",
+		"priz": false,
+		"start": false,
+		"gametime": 60,
+		"game": false,
+		"igra": false,
+		"games": []
+	},
+	{
+		"id": 1,
+		"type": 2,
+		"uid": 3,
+		"antispam": true,
+		"statuemoney": 0,
+		"statuepeople": 0,
+		"statuemsg": 18,
+		"statuemoneylvl": 0,
+		"statuepeoplelvl": 0,
+		"statuemsglvl": 0,
+		"reg": "2025-08-21T17:43:46.786Z",
+		"priz": false,
+		"start": false,
+		"gametime": 15,
+		"game": true,
+		"igra": false,
+		"games": [
+			{
+				"result": 2,
+				"stavka": true,
+				"hash": "2692464973fa5858bede703e2ed82957236c319bf00933fa9f8dc96d00f88624",
+				"proverka": "2|83dDPtmdVAPVTPF",
+				"stavki": [],
+				"randomSource": "Weather",
+				"generatorIcon": "🌧️"
+			}
+		]
+	}
+]
